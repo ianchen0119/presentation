@@ -8,3 +8,4 @@
 - OSMNT 2024：[Intro and Dive in free5GC](https://www.open6gnet.org/osmnt2024-speakers/) 🇩🇪
 - IT+ 直播： [EN 帶你入門系列 {作業系統篇} ](https://itplus.ithome.com.tw/webinar-page/230) 🇹🇼
 - IT+ 直播： [EN 帶你入門系列 {核心網路篇} ](https://itplus.ithome.com.tw/webinar-page/231) 🇹🇼
+- COSCUP 2024: [When cloud-native meets telecommunication technologies](https://coscup.org/2024/en/session/RGLZHX)
