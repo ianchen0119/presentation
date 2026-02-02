@@ -9,3 +9,4 @@
 - IT+ 直播： [EN 帶你入門系列 {作業系統篇} ](https://itplus.ithome.com.tw/webinar-page/230) 🇹🇼
 - IT+ 直播： [EN 帶你入門系列 {核心網路篇} ](https://itplus.ithome.com.tw/webinar-page/231) 🇹🇼
 - COSCUP 2024: [When cloud-native meets telecommunication technologies](https://coscup.org/2024/en/session/RGLZHX)
+- COSCUP 2025: [使用 Golang 開發 Linux Scheduler！（Develop a Linux Scheduler using Golang!）](https://coscup.org/2025/sessions/MRZYJF) [Video](https://youtu.be/m5F1tThNlbs?si=Uq4KbqQFePIHFUzS)
